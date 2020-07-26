@@ -24,7 +24,7 @@
 <br/>
 
 - 🔭 I’m currently building **Tetris** in react. 
-- 🌱 I’m currently learning **React ❄ and Machine Learning **
+- 🌱 I’m currently learning **React ❄ and Machine Learning**
 - 👯 I’m looking to collaborate projects involving **Python, C++ and JS**
 - 🤔 I’m looking for help with understanding **software designing**
 - 💬 I would like to discuss about **Data Strcucture and Data Science Basics**
