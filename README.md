@@ -23,14 +23,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Data Science Project
+- 🔭 I’m currently building **Tetris** in react. 
 - 🌱 I’m currently learning Data Mining
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with Data Science Project
 - 💬 Ask me about Data Science Basics
 - 📫 How to reach me: [Instagram - @ig_divyanshusingh](https:/www.instagram.com/ig_divyanshusingh) , [Linkedin - @divyanshuusingh](https://linkedin.com/in/divyanshuusingh) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 6 hours listening songs everyday  
+- ⚡ Fun fact: I have immense intreset in **Quantum Physics** and **Sci-fi Books**.  
 
 [![Twitter: DivyanshuIAm](https://img.shields.io/twitter/follow/DivyanshuIAm?style=social)](https://twitter.com/DivyanshuIAm)
 [![Linkedin: divyanshuusingh](https://img.shields.io/badge/-divyanshuusingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyanshuusingh/)](https://www.linkedin.com/in/divyanshuusingh/)
