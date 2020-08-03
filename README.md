@@ -54,7 +54,8 @@
 </a>
 <a href="https://github.com/divyanshugit/Daily-Coding-Problems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=Daily-Coding-Problems&theme=dark" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=120-Days-Of-Data-Science&theme=dark" />
+  
 </a>
 <di
 v align="center">
