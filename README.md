@@ -54,7 +54,7 @@
 </a>
 <a href="https://github.com/divyanshugit/Daily-Coding-Problems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=TV-Halftime-Shows-and-the-Big-Game&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=Unscramble-Computer-Science-Problemse&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=Unscramble-Computer-Science-Problems&theme=dark" />
   
 </a>
 <di
