@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently building **Tetris** in react. 
+- 🔭 I’m currently building **Tetris** in **Python**
 - 🌱 I’m currently learning **React ❄ and Machine Learning**
 - 👯 I’m looking to collaborate projects involving **Python, C++ and JS**
 - 🤔 I’m looking for help with understanding **Data Mining**
