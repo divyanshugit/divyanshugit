@@ -52,8 +52,10 @@
 <a href="https://github.com/divyanshugit">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshugit&show_icons=true&theme=dracula&line_height=27" alt="Divyanshu's github stats"/>
 </a>
-<a href="https://github.com/divyanshugit/Daily-Coding-Problems">
+<a href="https://github.com/divyanshugit/TV-Halftime-Shows-and-the-Big-Game&theme/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=TV-Halftime-Shows-and-the-Big-Game&theme=dark" />
+ </a>
+ <a href="https://github.com/divyanshugit/Unscramble-Computer-Science-Problems/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshugit&repo=Unscramble-Computer-Science-Problems&theme=dark" />
   
 </a>
