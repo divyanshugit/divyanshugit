@@ -24,10 +24,10 @@
 <br/>
 
 - 🔭 I’m currently building **Tetris** in **Python**
-- 🌱 I’m currently learning **React ❄ and Machine Learning**
-- 👯 I’m looking to collaborate projects involving **Python, C++ and JS**
+- 🌱 I’m currently learning **Web Scraping**
+- 👯 I’m looking to collaborate projects involving **Data Science & Machine Learning**
 - 🤔 I’m looking for help with understanding **Data Mining**
-- 💬 I would like to discuss about **Data Strcucture and Data Science Basics**
+- 💬 I would like to discuss about **Data Strcucture and Data Science**
 - 📫 How to reach me: [Instagram - @ig_divyanshusingh](https:/www.instagram.com/ig_divyanshusingh) , [Linkedin - @divyanshuusingh](https://linkedin.com/in/divyanshuusingh) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have immense intreset in **Quantum Physics** and **Sci-fi Books 📚**.  
@@ -39,12 +39,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>    
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 <a href="https://github.com/divyanshugit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshugit&theme=dark&hide_langs_below=1" />
