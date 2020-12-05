@@ -20,10 +20,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently building **Tetris** in **Python**
-- 🌱 I’m currently learning **Web Scraping**
 - 👯 I’m looking to collaborate projects involving **Data Science & Machine Learning**
-- 🤔 I’m looking for help with understanding **Data Mining**
+- 🤔 I’m looking for help with understanding **OOPs**
 - 💬 I would like to discuss about **Data Strcucture and Data Science**
 - 📫 How to reach me: [Instagram - @ig_divyanshusingh](https:/www.instagram.com/ig_divyanshusingh) , [Linkedin - @divyanshuusingh](https://linkedin.com/in/divyanshuusingh) 
 - 😄 Pronouns: He/His
