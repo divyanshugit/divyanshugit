@@ -27,7 +27,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have immense intreset in **Quantum Physics** and **Sci-fi Books 📚**.  
 
-[![Twitter: DivyanshuIAm](https://img.shields.io/twitter/follow/DivyanshuIAm?style=social)](https://twitter.com/DivyanshuIAm)
 [![Linkedin: divyanshuusingh](https://img.shields.io/badge/-divyanshuusingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyanshuusingh/)](https://www.linkedin.com/in/divyanshuusingh/)
 [![GitHub: divyanshugit](https://img.shields.io/github/followers/divyanshugit?label=follow&style=social)](https://github.com/divyanshugit)
 
