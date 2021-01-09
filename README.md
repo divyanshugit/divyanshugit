@@ -7,14 +7,8 @@
 <a href="https://linkedin.com/in/divyanshuusingh">
   <img align="left" alt="Divyanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/divyanshugit">
-  <img align="left" alt="Divyanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://instagram.com/ig_divyanshusingh/">
   <img align="left" alt="Divyanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iamdivyanshuusingh/">
-  <img align="left" alt="Divyanshu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
