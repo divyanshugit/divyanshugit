@@ -20,7 +20,7 @@ I’m a final-year undergrad from India.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/DivyanshuIAm" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DivyanshuIAm" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/divyanshutwt" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="divyanshutwt" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/divyanshuusingh/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Divyanshu Kumar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/ig_divyanshuusingh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig_divyanshusingh" height="50" width="50" /></a>
 </p>
