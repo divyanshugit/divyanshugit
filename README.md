@@ -5,7 +5,7 @@
 <h5 align="center">
 I’m a final-year undergrad from India. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu" /> </p>
 <p>
 <a align= "center" href="https://github.com/divyanshugit">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshugit&theme=radical">
