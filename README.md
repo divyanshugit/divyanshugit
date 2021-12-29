@@ -12,10 +12,20 @@ I’m a final-year undergrad from India.
 <img align="right" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=divyanshugit&count_private=true&theme=radical&show_icons=true" />
 </p>
 
+<!-- ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin)
+![Twitter Follow](https://img.shields.io/twitter/follow/divyanshutwt?style=social)  -->
+
 <p align="left">   
-      <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+      <a>
+         <img src="https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin"
+                  alt="Linkedin">
+     </a>
+     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/divyanshutwt?style=social&logo=twitter"
-            alt="follow on Twitter"></a> </p>
+                  alt="follow on Twitter">
+     </a> 
+
+</p> 
 
  - 📫 How to reach me **kumardivy1999@gmail.com**
 <br><br>
