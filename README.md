@@ -17,7 +17,7 @@ I’m a final-year undergrad from India.
 
 <p align="left">   
       <a>
-         <img src="https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin"
+         <img src="https://img.shields.io/badge/LinkedIn-2.6k-blue?style=social&logo=linkedin"
                   alt="Linkedin">
      </a>
      <a href="https://twitter.com/intent/follow?screen_name=shields_io">
