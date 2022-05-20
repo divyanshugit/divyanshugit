@@ -2,9 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Divyanshu</h1>
-<h5 align="center">
-I’m a final-year undergrad from India. 
-</h5>
+
+❄ Research Associate at IISc Bangalore.<br>
+❄ Diving deep into Privacy in context of NLP and Recommender Systems.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu" /> </p>
 <p>
 <a align= "center" href="https://github.com/divyanshugit">
