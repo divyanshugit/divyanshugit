@@ -4,7 +4,7 @@
          width="45" />, I'm Divyanshu</h1>
 
 ❄ Research Associate at IISc Bangalore.<br>
-❄ Diving deep into Privacy in context of NLP and Recommender Systems.
+❄ Diving deep into PETs in context of NLP and Recommender Systems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu" /> </p>
 <p>
