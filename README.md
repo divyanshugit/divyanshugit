@@ -3,9 +3,9 @@
          height="45"
          width="45" />, I'm Divyanshu</h1>
 
-❄ Research Associate at IISc Bangalore.<br>
+❄ AI Research Engineer at Enkrypt AI.<br>
 ❄ Working on Neural Machine Translation for Indic Language and Privacy-Preserving Generative Models.<br>
-❄ Diving deep into PETs in context of NLP and Recommender Systems.
+❄ Diving deep into PETs in the context of NLP and Recommender Systems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugit&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu" /> </p>
 <p>
